@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
 })
 export class CabeceraComponent {
     nombre: string = "Sebastian";
-    apellido: string = "Levi"
+    apellido: string = "XXXXvi"
     variable = "Planeta Tierra"
 
     mostrar(){
